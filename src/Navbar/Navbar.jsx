@@ -27,19 +27,19 @@ function Navbar() {
           <a href="/about">About</a>
         </li>
         <li>
-          <a href="news">News</a>
+          <a href="/news">News</a>
         </li>
         <li>
-          <a href="blogs">Blogs</a>
+          <a href="/blogs">Blogs</a>
         </li>
         <li>
-          <a href="team">team</a>
+          <a href="/team">team</a>
         </li>
         <li>
-          <a href="contact">Contact</a>
+          <a href="/contact">Contact</a>
         </li>
         <li>
-          <a href="resources">Resources</a>
+          <a href="/resources">Resources</a>
         </li>
       </ul>
       <h1 className="logo">Navbar</h1>
