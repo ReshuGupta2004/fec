@@ -32,8 +32,8 @@ const AboutUs = () => {
     padding:"20px",
     
     }}>
-      <h1>About Us</h1>
-      <p>
+      <h1 style={{color:"black"}}>About Us</h1>
+      <p style={{color:"black"}}>
         Welcome to [Organization Name], where our mission is to fight hunger and
         feed hope. We believe that everyone deserves access to nutritious food, and
         we're committed to making that a reality for those in need. Our dedicated team
@@ -63,13 +63,13 @@ const AboutUs = () => {
           ))}
         </Carousel>
       </div>
-      <p>
+      <p style={{color:"black"}}>
         Our programs include food pantries, meal services, and educational initiatives
         to teach nutrition and healthy eating habits. We partner with local farmers,
         businesses, and volunteers to ensure that surplus food reaches those who need
         it most, reducing waste and nourishing our community.
       </p>
-      <p>
+      <p style={{color:"black"}}>
         Join us in our fight against hunger. Whether you donate food, time, or funds,
         your support makes a significant impact. Together, we can create a world where
         no one goes hungry.

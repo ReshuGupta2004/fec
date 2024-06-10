@@ -24,7 +24,7 @@
   
   .title p {
     font-size: 1.2em;
-    color: #555;
+    color: black;
     text-align: center;
   }
   
@@ -60,7 +60,7 @@
   
   .item-in p {
     font-size: 1em;
-    color: #666;
+    color: black;
     line-height: 1.5;
     margin-bottom: 20px;
   }

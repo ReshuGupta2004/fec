@@ -48,7 +48,7 @@ const Tickertap = () => {
               rel="noopener nofollow"
               target="_blank"
             >
-              <span className="blue-text">
+              <span className="blue-text" style={{color:"black"}}>
                 Track all markets on TradingView
               </span>
             </a>
